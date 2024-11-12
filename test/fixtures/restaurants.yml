@@ -2,10 +2,8 @@
 
 one:
   title: MyString
-  detail: MyText
-  completed: false
+  details: MyText
 
 two:
   title: MyString
-  detail: MyText
-  completed: false
+  details: MyText
